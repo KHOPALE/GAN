@@ -23,7 +23,7 @@ matplotlib
 
 1) Installation Clone the repository:
 
-git clone 
+git clone https://github.com/KHOPALE/GAN.git
 
 
 cd ESRGAN
